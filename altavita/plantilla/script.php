@@ -6,7 +6,7 @@
 <script src="assets/js/olw-carousel/owl.carousel.js"> </script>
 <script type="text/javascript" src="assets/js/bootstrap.min.js"></script>
 <script type="text/javascript" src="assets/js/api.js"></script>
-<script type="text/javascript" src="assets/js/json-rpc-client.js"></script>
+<script type="text/javascript" src="assets/js/cliente.js"></script>
 
 <script>   
         $(document).ready(function() {
@@ -65,6 +65,9 @@
       target.addClass('active');
     });
         */
+
+
+
     var acc = document.getElementsByClassName("accordion");
 var i;
 

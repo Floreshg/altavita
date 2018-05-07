@@ -1,0 +1,43 @@
+.tiempo.precio {
+    color: #c086a3;
+
+}
+
+.btn {
+
+    border-radius: 50px;
+    &.degradado {
+        background: linear-gradient(-90deg, #7c5593, #b97ea1, #7c5593);
+        color: #fff;
+    }
+    
+}
+
+
+.lineal {
+    display: inline-block;
+    a,i{
+          margin-right: 10px;
+    }
+}
+
+
+/*a,i:hover {
+        color: linear-gradient(-90deg, #7c5593, #b97ea1, #7c5593);
+        background: transparent;
+        border: $rosado;
+
+    }*/
+
+
+.panel a {
+  color: #444;
+}
+
+
+@media (min-width:768px){
+   .xs-mg20{
+    
+} 
+}
+

@@ -65,11 +65,7 @@
              
             <div class="col-xs-12 col-sm-4">
                 <div>
-                    <div id="#select_event_id">
-                        
-                        
-                        
-                    </div>
+                    <a id="datos" class="btn btn-danger">click</a>
                 </div>
             </div>
             <div class="col-xs-12 col-sm-4">
@@ -81,13 +77,6 @@
          </div>
      </div>
  </section>
-  
-  
-  
-  
-  <section>
-      
-  </section>
    
     
 <!--<section>
@@ -132,7 +121,7 @@
                 <a href="shop.php" class="none uppercase text-center">
           <img src="assets/img/home/p1.jpg" alt="" class="img-responsive center-block">
               <div class="">
-                <h4>producto1</h4> 
+                <h4>hola</h4> 
             </div>
             <div class="">
                 <h4>100ml | $200</h4>
@@ -145,7 +134,7 @@
                 <a href="shop.php" class="none uppercase text-center">
           <img src="assets/img/home/p2.jpg" alt="" class="img-responsive center-block">
               <div class="text-center" >
-                <h4>producto2</h4> 
+                <h4>hola</h4> 
             </div>
             <div class="text-center link">
                 <h4>100ml | $200</h4>
@@ -158,7 +147,7 @@
                 <a href="shop.php" class="none uppercase">
           <img src="assets/img/home/p3.jpg" alt="" class="img-responsive center-block">
               <div class="text-center" >
-                <h4>producto3</h4> 
+                <h4>hola</h4> 
             </div>
             <div class="text-center">
                 <h4>100ml | $200</h4>
@@ -171,7 +160,7 @@
                 <a href="shop.php" class="none uppercase">
           <img src="assets/img/home/p4.jpg" alt="" class="img-responsive center-block">
               <div class="text-center" >
-                <h4>producto4</h4> 
+                <h4>hola</h4> 
             </div>
             <div class="text-center link">
                 <h4>100ml | $200</h4>
@@ -184,7 +173,7 @@
                 <a href="shop.php" class="none uppercase text-center">
             <img src="assets/img/home/p4.jpg" alt="" class="img-responsive center-block">
               <div class="" >
-                <h4>producto5</h4> 
+                <h4>hola</h4> 
             </div>
             <div class="">
                 <h4>100ml | $200</h4>
@@ -197,7 +186,7 @@
                 <a href="shop.php" class="none uppercase">
             <img src="assets/img/home/p4.jpg" alt="" class="img-responsive center-block">
               <div class="text-center" >
-                <h4>producto6</h4> 
+                <h4>hola</h4> 
             </div>
             <div class="text-center">
                 <h4>100ml | $200</h4>
@@ -210,7 +199,7 @@
                 <a href="shop.php" class="none uppercase">
             <img src="assets/img/home/p4.jpg" alt="" class="img-responsive center-block">
               <div class="text-center" >
-                <h4>producto7</h4> 
+                <h4>hola</h4> 
             </div>
             <div class="text-center">
                 <h4>100ml | $200</h4>
@@ -223,7 +212,7 @@
                 <a href="shop.php" class="none uppercase">
             <img src="assets/img/home/p4.jpg" alt="" class="img-responsive center-block">
               <div class="text-center" >
-                <h4>producto8</h4> 
+                <h4>hola</h4> 
             </div>
             <div class="text-center">
                 <h4>100ml | $200</h4>

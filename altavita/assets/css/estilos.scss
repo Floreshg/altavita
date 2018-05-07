@@ -1,0 +1,36 @@
+@import "scss/iconos.scss";
+$morado: #69518E;
+
+$moradoclaro:#bba9c8;
+
+$plomo:#636363;
+$rosado:#b283a07a;
+$plomito: #464646;
+
+
+$linea:#b283a099; /*PARA LOS FILTROS DE SHOP Y SERVICE, PARA HOVER DE LOS CUADROS*/
+ 
+@import "scss/menu.scss";
+@import "scss/section.scss";
+@import "scss/footer.scss";
+@import "scss/olw-carousel.scss";
+@import "scss/acordion.scss";
+@import "scss/services.scss";
+@import "scss/section-index.scss";
+@import "scss/widget.scss";
+
+a{
+    text-decoration: none!important;
+}
+
+
+*{
+    font-family: 'Roboto Slab', serif;
+}
+
+.justify{
+    text-align: justify;
+}
+
+
+
