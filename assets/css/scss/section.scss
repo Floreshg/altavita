@@ -1,0 +1,36 @@
+
+/*PARA MOVER MAS ABAJO EL CONTENIDO*/
+.general {
+    margin-top: 22%;
+}
+/*--------------------*/
+
+.espacio20{
+    margin:20px 0;
+}
+
+.espacio25{
+      margin:25px  0 ;
+}
+
+.espacio30{
+      margin:30px 0 ;
+}
+
+.espacio50{
+     margin:50px 0; 
+}
+
+
+.color-morado{
+    color: $morado;  
+}
+
+
+
+@media only screen and (min-width: 768px) {
+
+section.general {
+    margin-top: 0;
+}
+}

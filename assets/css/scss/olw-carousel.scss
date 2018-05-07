@@ -1,0 +1,89 @@
+.owl-carousel{
+    font-size: 25px;
+    font-weight: bold;
+    color:$rosado;
+
+}
+.owl-prev{
+    position: absolute;
+    top: 40%;
+    left: -7px;
+    
+    span{
+           border-radius: 50%;
+    border: 0.9px solid $rosado;
+  padding: 0.1em 0.5em;
+      
+    }
+}
+
+.owl-next {
+    position: absolute;
+    top: 40%;
+    right: -7px;
+    span{
+           border-radius: 50%;
+    border: 0.9px solid $rosado;
+   padding: 0.1em 0.5em;
+           
+    }
+}
+.owl-theme .owl-nav [class*=owl-]:hover{
+    color: #fff;
+    border-radius: 50%;
+    background: $rosado;
+}
+/*
+
+.owl-item:hover {
+    border: 1px solid;
+}
+*/
+ .produc:hover{
+       /* margin: 20px;*/
+         border: 1px solid ;
+    }
+
+.owl-item{
+   
+}
+
+.none {
+    text-decoration: none!important;
+}
+
+.uppercase {
+    text-transform: uppercase;
+}
+
+@media (min-width: 1200px){
+    
+    .owl-prev {
+    position: absolute;
+    top: 0px;
+    left: -5px;
+}
+    
+     .owl-next {
+    position: absolute;
+    top: 0px;
+    right: -5px;
+}
+    
+    
+}
+
+@media (min-width: 768px){
+.owl-prev {
+position: absolute;
+    top: 50%;
+    right: -5px;
+}
+
+    
+    .owl-next {
+ position: absolute;
+    top: 50%;
+    right: -5px;
+}
+}

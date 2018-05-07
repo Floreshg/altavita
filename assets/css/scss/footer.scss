@@ -1,0 +1,17 @@
+.footer{
+    background: $morado;
+}
+
+
+.text-footer h4, h5 {
+    font-size: 10px;
+    color: #fefffc;
+}
+
+
+@media only screen and (min-width: 768px) {
+    .text-footer h4, h5 {
+    font-size: 14px;
+    color: #fefffc;
+}
+}
